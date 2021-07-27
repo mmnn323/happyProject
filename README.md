@@ -54,6 +54,3 @@
   - [x] 팀프로젝트를 진행하며, 소통과 협업도구의 중요성을 깨달았습니다.
   - [x] 라이브러리를 제한적으로 사용해보니, 라이브러리의 필요성을 알게 되었습니다.
 
-## 💼Download
-  - git clone https://github.com/hyeye1/happyProject.git
-  
